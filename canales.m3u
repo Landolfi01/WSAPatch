@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="I898.65930.schedulesdirect.org" tvg-name="ARG ESPN Plus" tvg-logo="https://espn-cannonball-cdn.bamgrid.com/assets/originals/ espn_plus_share-1.png" group-title="ESPN",ARG ESPN Plus
+http://192.99.70.160:25461/franco/1234/9424
+#EXTINF:-1 tvg-id="I254.25595.schedulesdirect.org" tvg-name="ESPN Deportes" tvg-logo="http://www.almuerzodenegocios.com/wp-content/uploads/2017/11 /i.png" group-title="ESPN",ESPN Deportes
+http://192.99.70.160:25461/franco/1234/9423
+#EXTINF:-1 tvg-id="I257.79049.schedulesdirect.org" tvg-name="ESPN 3" tvg-logo="https://destel.mx/wp-content/uploads/2016/04/305 .png" título-grupo="ESPN",ESPN 3
+http://192.99.70.160:25461/frank/1234/9422
+#EXTINF:-1 tvg-id="I253.37747.schedulesdirect.org" tvg-name="ESPN 2" tvg-logo="https://destel.mx/wp-content/uploads/2016/04/306 .png" título-grupo="ESPN",ESPN 2
+http://192.99.70.160:25461/franco/1234/9421
+#EXTINF:-1 tvg-id="pac12arizona.us" tvg-name="EE.UU. | Pac-12 Arizona" tvg-logo="https://static.pac-12.com/images/logos/ pac-12 -arizona-logo.png" group-title="DEPORTES",EE.UU. | pac-12 arizona
+http://192.99.70.160:25461/franco/1234/1517
+#EXTINF:-1 tvg-id="pac12bayarea.us" tvg-name="EE.UU. | Pac-12 Bay Area" tvg-logo="https://sport-tv-guide.live/images/stations /a1879.png" group-title="DEPORTES",EE.UU. | Área de la bahía Pac-12
